@@ -1,0 +1,12 @@
+# Deer
+# .cow file by lensdeer
+$the_cow = <<EOC;
+  $thoughts
+     (             )
+      `--(_   _)--'
+           Y-Y
+          /$eyes \\
+         /     \\
+         `--'.  \\       ,
+          $tongue |   `-----/)
+EOC

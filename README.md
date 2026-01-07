@@ -36,3 +36,18 @@ function cowsayfortune {
 
 cowsayfortune
 ```
+
+
+CREDITS:
+
+https://github.com/bkendzior/cowfiles.git 
+https://github.com/justinledford/llama-cowfile
+https://github.com/ntbloom/mobydicksay
+https://github.com/curusarn/this-is-fine-cow
+https://github.com/spenserblack/cowfiles
+https://github.com/vanillinstarskater/boykissersay
+https://github.com/MarshDeer/cowfiles
+https://github.com/jasisk/cowsay-swaggycat
+https://github.com/MillironX/cowsay-cows
+https://github.com/ssinvicta/opossum-cowsay
+https://github.com/DennisNeu/hidden-cat-cowfile
